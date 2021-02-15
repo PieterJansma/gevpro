@@ -1,3 +1,3 @@
 # gevpro
 
-gevorderd progameren week1, Pieter jansma
+gevorderd progameren week2, Pieter jansma
