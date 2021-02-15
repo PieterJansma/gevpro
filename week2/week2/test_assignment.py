@@ -44,7 +44,7 @@ class TestWordSearch:
         words = list(wordsearch.solve('puzzle2.txt', 'words.json'))
         assert len(words) == 27
         assert set(words) == {
-            'OVER', 'VIER', 'RAIO', 'NFWO', 'KAAS', 'GETROFFEN', 'NEGEN',
+        'OVER', 'VIER', 'RAIO', 'NFWO', 'KAAS', 'GETROFFEN', 'NEGEN',
             'TIEN', 'ZONNEBRIL', 'BRIL', 'GALMEN', 'GALM', 'MENISCUS',
             'NAGALMEN', 'BABYUITZET', 'BABY', 'UITZET', 'OMNIBUS', 'STIL',
             'STILTE', 'AFFAIRE', 'FAIR', 'ZEKER', 'HERSENS', 'EDEL', 'EDELE',
